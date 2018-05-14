@@ -1,0 +1,17 @@
+[
+  {
+      "grouping":"Architectures & Databases",
+      "skills":[ "RESTful APIs", "GraphQL","PostgreSQL","MySQL","AWS","GCP"]
+  },{
+      "grouping":"Languages & Operating Systems",
+      "skills":[ "Python","NodeJS","Linux","Debian","Ubuntu","Bash","Rust"]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "Github","Terraform","CircleCI", "Firebase", "Docker"]
+  },
+  {
+    "grouping":"Productivity Tools",
+      "skills":["Atom", "Slack", "Trello", "Microsoft Office"]
+  }
+]

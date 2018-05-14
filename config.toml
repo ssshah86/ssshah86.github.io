@@ -1,0 +1,45 @@
+baseURL = "https://ssshah86.github.io/"
+languageCode = "en-us"
+title = "Sunil Shah"
+theme = "hugo-resume"
+
+[params]
+    firstName = "Sunil"
+    lastName = "Shah"
+    address = "Los Angeles, CA"
+    phone = "(971) 266-3230"
+    contactNote = "Engineer"
+    profileImage = "img/profile.png"
+    email = "sunil@sunilshah.io"
+    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = true
+    showOpenSource = false
+    showPublications = true
+    showExperience = true
+    showEducation = true
+
+    showQr = false
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/ssshah86/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/ssshah86/"
+
+[[params.handles]]
+    name = "Stack Overflow"
+    link = "https://stackoverflow.com/users/5948903/eternal-blue"
+    icon = "stack-overflow"
+
+[[params.handles]]
+    name = "Keybase"
+    link = "https://keybase.io/ssshah86"
+    icon = "key"
+
+#[params.google.analytics]
+#    trackerID = "XX-123446-01"

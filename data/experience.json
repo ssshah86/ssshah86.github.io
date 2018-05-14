@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Independent Consultant",
+        "company":"Proclus Engineering",
+        "summary":"Energy R&D consulting services which include system architecture design, algorithm development, and software product design.",
+        "range":"2015 - Present"
+    },
+    {
+        "role":"Co-founder & CEO",
+        "company":"Entomaton Corp",
+        "summary":"Self-provisioning IoT embedded control system for home energy storage.",
+        "range":"2015 - 2018"
+    },
+    {
+        "role":"Electrical Engineer",
+        "company":"Southern California Edison",
+        "summary":"Technical lead in the R&D division.",
+        "range":"2010 - 2015"
+    }
+]
